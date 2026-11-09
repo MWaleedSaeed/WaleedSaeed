@@ -2,7 +2,7 @@
 
 ### Odoo Full Stack Developer · 5+ Years
 
-🔭 **Odoo Full Stack Developer** at [Bloopark System GmbH](https://www.bloopark.de/) — an Official Odoo Partner in Germany<br>
+🔭 **Odoo Full Stack Developer** at [Openfellas GmbH](https://openfellas.com/) — an Official Odoo Gold Partner in Germany<br>
 🛠️ Building, Customisation , Migrations & optimizing Odoo across retail, manufacturing & service Industry<br>
 🚀 Delivered **20+ ERP implementations** end-to-end — from gap analysis to production deployment<br>
 🌱 Exploring AI integration in Odoo ERP workflows<br>
